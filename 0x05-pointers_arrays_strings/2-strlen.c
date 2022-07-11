@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- *_strlen -> function to get the length of a string
- *@s:char input  
- *Return:returns length of the string
- */
+*_strlen -> function to get the length of a string
+*@s:char input  
+*Return:returns length of the string
+*/
 int _strlen(char *s)
 {
 int i = 1, sum = 0;
